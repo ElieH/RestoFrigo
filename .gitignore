@@ -1,0 +1,14 @@
+# Worktrees isolation folder
+.worktrees/
+worktrees/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment and logs
+*.log
+.env
+.env.local
